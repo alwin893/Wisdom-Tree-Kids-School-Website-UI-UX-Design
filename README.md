@@ -34,48 +34,25 @@ School administrators
 
 Early childhood educators
 
-🔄 Visual Design Flow
-┌───────────────┐
-│   Research    │
-│ User Needs &  │
-│ Competitor UX │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│   Define      │
-│ Problems &    │
-│ Pain Points   │
-└───────┬───────┘
-        ↓
-┌────────────────────────┐
-│   User Flow Planning   │
-│ Home → Programs →      │
-│ Admissions → Contact   │
-└──────────┬─────────────┘
-           ↓
-┌───────────────┐
-│ Wireframing   │
-│ Layout &      │
-│ Content Flow  │
-└───────┬───────┘
-        ↓
-┌───────────────────────┐
-│ UI Design             │
-│ Nature-inspired,      │
-│ Child-friendly UI     │
-└────────┬──────────────┘
-         ↓
-┌───────────────────────┐
-│ Prototyping           │
-│ Interactive Screens   │
-│ (Figma)               │
-└────────┬──────────────┘
-         ↓
-┌───────────────────────┐
-│ Final Output          │
-│ High-Fidelity UI &    │
-│ Responsive Design     │
-└───────────────────────┘
+🔄 Design Flow
+Research → Define → User Flow → Wireframing → UI Design → Prototyping → Final UI
+
+Detailed Flow
+
+Research: Studied parent expectations and competitor school websites
+
+Define: Identified usability gaps and content clarity issues
+
+User Flow: Planned simple paths (Home → Programs → Admissions → Contact)
+
+Wireframing: Created low-fidelity layouts for structure
+
+UI Design: Applied nature-inspired, child-friendly visuals
+
+Prototyping: Built interactive screens in Figma
+
+Final Output: High-fidelity, responsive UI screens
+
 
 🧩 UX Framework (Design Thinking – Visual)
 [ Empathize ] → [ Define ] → [ Ideate ] → [ Prototype ] → [ Test ]
